@@ -4,3 +4,7 @@
 
 ### solution：
 
+**Mini-Batch Gradient Descent with Python**
+
+https://www.geeksforgeeks.org/ml-mini-batch-gradient-descent-with-python/
+
